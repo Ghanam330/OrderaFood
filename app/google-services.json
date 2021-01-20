@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015123935527",
+    "firebase_url": "https://androideatlt-a79cd.firebaseio.com",
+    "project_id": "androideatlt-a79cd",
+    "storage_bucket": "androideatlt-a79cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015123935527:android:bfa9f9392beb25e325e902",
+        "android_client_info": {
+          "package_name": "com.example.orderfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015123935527-dt0jti2nd1o4kbpg4nmjviqb3uftp0ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orderfoods",
+            "certificate_hash": "b72cbf468d276a158b67a4c79b60e1a03d08efe9"
+          }
+        },
+        {
+          "client_id": "1015123935527-ooojr2p94qfffh96u195qphqscs1311g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAndiSI-_1oW0TE6Q5jNEM4UQaHh8nH2kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015123935527-ooojr2p94qfffh96u195qphqscs1311g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
